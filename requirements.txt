@@ -4,3 +4,5 @@ openai
 python-dotenv
 pydantic
 display
+langchain_openai
+langchain-groq
