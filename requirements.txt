@@ -6,3 +6,7 @@ pydantic
 display
 langchain_openai
 langchain-groq
+langchain-community
+arxiv
+wikipedia
+langchain-tavily
